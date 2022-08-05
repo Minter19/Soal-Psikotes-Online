@@ -40,4 +40,4 @@ while start:
         continue
     else:
         break
-###tes pull ke branch childtest
+###tes pull ke branch child
