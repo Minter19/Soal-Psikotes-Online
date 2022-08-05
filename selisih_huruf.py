@@ -40,6 +40,4 @@ while start:
         continue
     else:
         break
-
-###CVOBA NAMBAH KOMEN
-##TAMBAH INI LAGI
+###tes pull ke branch childtest
